@@ -1,4 +1,4 @@
-# 🎧 Convert To Playlist 🎹
+# 🎧 Serato To Playlist 🎹
 
 A powerful tool to convert your DJ history exports (from Serato) to Spotify and Apple Music playlists.
 
