@@ -1,6 +1,6 @@
 # 🎧 Convert To Playlist 🎹
 
-A powerful tool to convert your DJ history exports (from Serato, Rekordbox, etc.) to Spotify and Apple Music playlists.
+A powerful tool to convert your DJ history exports (from Serato) to Spotify and Apple Music playlists.
 
 ## ✨ Features
 
